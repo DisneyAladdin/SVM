@@ -1,5 +1,3 @@
-# svm_iris
-
 {
  "cells": [
   {
