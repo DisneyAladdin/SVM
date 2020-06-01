@@ -1,1 +1,1 @@
-# svm_iris
+# Support Vector Machine
